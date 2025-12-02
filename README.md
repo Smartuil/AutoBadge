@@ -196,6 +196,27 @@ https://badgen.net/badge/{SUBJECT}/{STATUS}/{COLOR}?icon={ICON}&scale={SCALE}
 
 本项目采用 [MIT License](LICENSE) 开源协议。
 
+## 🤝 赞助商
+
+感谢以下对本项目提供支持和贡献的个人和组织：
+
+### 💎 核心赞助商
+
+- **[CodeBuddy](https://copilot.tencent.com/)** - AI智能编程助手，为本项目提供全方位技术支持
+  - 🤖 提供项目架构设计建议和技术方案
+  - 🛠️ 协助代码优化、bug修复和功能开发
+  - 📝 完善项目文档、README和使用指南
+  - 🎨 改进用户界面设计和用户体验
+  - 🚀 解决GitHub Pages部署和技术难题
+  - 💡 提供最佳实践和代码规范指导
+
+### 🌟 特别感谢
+
+- 所有为本项目提交 Issue 和 Pull Request 的开发者
+- 在社区中推荐和分享本项目的用户
+
+---
+
 ## 🙏 致谢
 
 感谢以下开源项目和服务：
