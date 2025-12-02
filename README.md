@@ -6,7 +6,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/Smartuil/Chinese-ICP-Badge?style=social)](https://github.com/Smartuil/Chinese-ICP-Badge/network)
 [![GitHub issues](https://img.shields.io/github/issues/Smartuil/Chinese-ICP-Badge)](https://github.com/Smartuil/Chinese-ICP-Badge/issues)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Live Demo](https://img.shields.io/badge/Demo-Online-brightgreen)](https://Smartuil.github.io/Chinese-ICP-Badge/)
+[![Live Demo](https://img.shields.io/badge/Demo-Online-brightgreen)](http://badge.bonan.online/)
 [![Author's Blog](https://img.shields.io/badge/Blog-Visit-blue?logo=ghost)](https://www.bonan.online/)
 
 ## ✨ 功能特性
@@ -29,7 +29,7 @@
 
 ## 🌐 在线体验
 
-👉 **立即体验**: [https://Smartuil.github.io/Chinese-ICP-Badge/](https://Smartuil.github.io/Chinese-ICP-Badge/)
+👉 **立即体验**: [http://badge.bonan.online/](http://badge.bonan.online/)
 
 无需下载或安装，直接在浏览器中使用完整功能！
 
