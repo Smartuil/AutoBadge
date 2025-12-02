@@ -1,0 +1,54 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- 背景渐变定义 -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#764ba2;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="badgeGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4facfe;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00f2fe;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- 背景圆形 -->
+  <circle cx="100" cy="100" r="90" fill="url(#bgGradient)" />
+  
+  <!-- 徽章主体 -->
+  <rect x="40" y="60" width="120" height="50" rx="8" fill="url(#badgeGradient)" />
+  
+  <!-- 徽章左侧部分 -->
+  <rect x="40" y="60" width="60" height="50" rx="8" fill="#2d3748" opacity="0.8" />
+  
+  <!-- 图片图标 -->
+  <g transform="translate(55, 70)">
+    <!-- 图片外框 -->
+    <rect x="0" y="0" width="30" height="30" rx="3" fill="none" stroke="white" stroke-width="2"/>
+    <!-- 山峰 -->
+    <polygon points="5,20 10,12 15,17 20,10 25,15 25,25 5,25" fill="white" opacity="0.9"/>
+    <!-- 太阳 -->
+    <circle cx="22" cy="8" r="3" fill="white" opacity="0.9"/>
+  </g>
+  
+  <!-- Base64 代码符号 -->
+  <g transform="translate(110, 75)">
+    <text x="0" y="0" font-family="monospace" font-size="8" fill="white" font-weight="bold">B64</text>
+  </g>
+  
+  <!-- 转换箭头 -->
+  <g transform="translate(100, 125)">
+    <path d="M-15,0 L15,0 M10,-5 L15,0 L10,5" stroke="white" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  
+  <!-- 底部徽章装饰 -->
+  <g transform="translate(100, 145)">
+    <rect x="-25" y="-8" width="50" height="16" rx="8" fill="#fbbf24" />
+    <text x="0" y="4" font-family="Arial, sans-serif" font-size="10" fill="#1f2937" text-anchor="middle" font-weight="bold">BADGE</text>
+  </g>
+  
+  <!-- 装饰性小圆点 -->
+  <circle cx="45" cy="45" r="3" fill="white" opacity="0.6"/>
+  <circle cx="155" cy="45" r="3" fill="white" opacity="0.6"/>
+  <circle cx="45" cy="155" r="3" fill="white" opacity="0.6"/>
+  <circle cx="155" cy="155" r="3" fill="white" opacity="0.6"/>
+</svg>
