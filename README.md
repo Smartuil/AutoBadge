@@ -7,6 +7,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/Smartuil/Chinese-ICP-Badge)](https://github.com/Smartuil/Chinese-ICP-Badge/issues)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Live Demo](https://img.shields.io/badge/Demo-Online-brightgreen)](https://Smartuil.github.io/Chinese-ICP-Badge/)
+[![Author's Blog](https://img.shields.io/badge/Blog-Visit-blue?logo=ghost)](https://www.bonan.online/)
 
 ## ✨ 功能特性
 
