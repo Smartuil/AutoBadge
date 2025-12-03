@@ -29,7 +29,7 @@
 
 ## 🌐 在线体验
 
-👉 **立即体验**: [http://badge.bonan.online/](http://badge.bonan.online/)
+👉 **立即体验**: [https://badge.bonan.online](https://badge.bonan.online)
 
 无需下载或安装，直接在浏览器中使用完整功能！
 
@@ -42,8 +42,8 @@
 
 1. **克隆项目**
 ```bash
-git clone https://github.com/Smartuil/Chinese-ICP-Badge.git
-cd Chinese-ICP-Badge
+git clone https://github.com/Smartuil/AutoBadge.git
+cd AutoBadge
 ```
 
 2. **启动本地服务器**
@@ -65,7 +65,7 @@ php -S localhost:8000
 1. Fork本项目到你的GitHub账户
 2. 在仓库设置中启用GitHub Pages
 3. 选择`main`分支作为源
-4. 访问 `https://你的用户名.github.io/Chinese-ICP-Badge/`
+4. 访问 `https://你的用户名.github.io/AutoBadge/`
 
 ## 📖 详细使用指南
 
@@ -229,7 +229,7 @@ https://badgen.net/badge/{SUBJECT}/{STATUS}/{COLOR}?icon={ICON}&scale={SCALE}
 
 ## 📞 联系方式
 
-- 📧 **邮箱**: [your-email@example.com]
+- 📧 **邮箱**: [smartuil95@gmail.com](smartuil95@gmail.com)
 - 🐛 **Issues**: [GitHub Issues](https://github.com/Smartuil/Chinese-ICP-Badge/issues)
 - 💬 **讨论**: [GitHub Discussions](https://github.com/Smartuil/Chinese-ICP-Badge/discussions)
 
