@@ -2,9 +2,9 @@
 
 一个功能强大、现代美观的静态网页工具，专门用于将图片转换为Base64编码，并生成自定义的徽章（Badge）。完美支持Shields.io和Badgen.net两大徽章服务平台，为你的项目文档增色添彩。
 
-[![GitHub stars](https://img.shields.io/github/stars/Smartuil/Chinese-ICP-Badge?style=social)](https://github.com/Smartuil/Chinese-ICP-Badge/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Smartuil/Chinese-ICP-Badge?style=social)](https://github.com/Smartuil/Chinese-ICP-Badge/network)
-[![GitHub issues](https://img.shields.io/github/issues/Smartuil/Chinese-ICP-Badge)](https://github.com/Smartuil/Chinese-ICP-Badge/issues)
+[![GitHub stars](https://img.shields.io/github/stars/Smartuil/AutoBadge?style=social)](https://github.com/Smartuil/AutoBadge/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Smartuil/AutoBadge?style=social)](https://github.com/Smartuil/AutoBadge/network)
+[![GitHub issues](https://img.shields.io/github/issues/Smartuil/AutoBadge)](https://github.com/Smartuil/AutoBadge/issues)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Live Demo](https://img.shields.io/badge/Demo-Online-brightgreen)](http://badge.bonan.online/)
 [![Author's Blog](https://img.shields.io/badge/Blog-Visit-blue?logo=ghost)](https://www.bonan.online/)
@@ -230,8 +230,8 @@ https://badgen.net/badge/{SUBJECT}/{STATUS}/{COLOR}?icon={ICON}&scale={SCALE}
 ## 📞 联系方式
 
 - 📧 **邮箱**: [smartuil95@gmail.com](smartuil95@gmail.com)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/Smartuil/Chinese-ICP-Badge/issues)
-- 💬 **讨论**: [GitHub Discussions](https://github.com/Smartuil/Chinese-ICP-Badge/discussions)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/Smartuil/AutoBadge/issues)
+- 💬 **讨论**: [GitHub Discussions](https://github.com/Smartuil/AutoBadge/discussions)
 
 ---
 
